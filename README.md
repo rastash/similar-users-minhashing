@@ -13,4 +13,4 @@ row corresponds to a user, and each column represents an item. When
 consumption is indicated by a binary variable (read the article or
 not, clicked on the link or not), then a bit-vector is the most
 efficient way to represent this matrix. We use the bitarray class (see
-(link)[https://pypi.python.org/pypi/bitarray/0.8.1] for more details).
+[link](https://pypi.python.org/pypi/bitarray/0.8.1) for more details).
